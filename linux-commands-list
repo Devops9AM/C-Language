@@ -1,0 +1,160 @@
+pwd
+whoami 
+who am i
+hostname 
+uname -r 
+uanme -a
+last 
+last login
+users
+date 
+cal 
+cal 2023
+hostnamectl
+cat /etc/os-release
+cat /etc/redhat-release
+cat /etc/rockylinux-release
+tree
+rpm -q packagename
+rpm -qi packagename
+rpm -Rqi packagename
+yum list installed
+yum list avalilable
+yum update -y
+yum remove package-name
+chmod u+rwx
+chmod g+rwx
+chmod o+rwx
+chmod ugo+rwx
+chmod u-rwx
+chmod u-r
+chmod u-w
+chmod u-x
+chmod g-rwx
+chmod g-r
+chmod g-w
+chmod g-x
+chmod o-rwx
+chmod o-r
+chmod o-w
+chmod o-x
+chmod ugo-rwx
+chmod 777 filename
+chmod 666 filename
+chmod 555 filename
+chmod 444 filename
+chmod 333 filename
+chmod 222 filename
+chmod 111 filename
+chmod 000 filename
+cat >filename
+cat filename
+cat>>filename
+ctrl+d
+cat>/destination-directory/filename
+cat /destination-directory/filename
+cat>>/destination-directory/filename
+
+touch filename
+touch filename filename...nth filename 
+touch filename{1..nthfilenumber}
+touch .filename
+mkdir directory-name
+mkdir directory-name directory-name.. nth directory-name
+mkdir directory-name{1..nth directoryname}
+mkdir .directory-name 
+mkdir -p /directory-name/directory-name/.directory-name
+ls 
+ls -l
+ls -a 
+ls -la
+ls -r
+ls -lra
+ls -o
+ll
+ll -a
+ll -r
+ll -o
+ll -ro
+mv filename new-file  
+mv source-path destinaiton-path
+cp file-name new-filename 
+cp source-file-path destination-path
+cp -r source-directory-path destination-path
+cp -rvfp source-directory-path destination-path
+cp source-directoy-path  .
+cp -rvfp source-directory-path .
+rm filename
+rm filename file-name ..nth filename
+rm source-path/filname
+rm -f filename
+rm -f filename filename ..nth filename
+rm filename{start..endnumber}
+rm -f filename{startnumber..end-number}
+rm -f sourcepath/file-name
+rm -r directory name
+rm -r directory-name directory-name ..nth directory-name
+rm -r source-directory/directory-name 
+rm -rf directory name
+rm -rf directory-name directory-name ..nth directory-name
+rm -rf source-directory/directory-name 
+cd directory-name
+cd directory-name/directory-name..nth directory-name
+cd ..
+cd ../../.. nth directory-number
+cd - 
+init 0
+init 3
+init 5
+init 6
+reboot
+free -h
+free -g
+free -m
+free -k
+free -b
+lsblk
+fdisk -l
+du -h
+
+vi filename
+vim filename
+i
+I
+o
+O
+A
+a
+w
+b
+nw
+nb
+dd
+ndd
+yy
+nyy
+p
+hjkl 
+u
+x
+X
+g
+G
+set nu
+set nonu
+:!command
+:w
+:wq
+:w!
+:q
+:q!
+:wq!
+/character-name
+/word-name
+
+
+
+
+
+
+
