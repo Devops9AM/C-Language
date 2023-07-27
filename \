@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+
+void main()
+{
+	int arr[50],size,i;
+      system("clear");
+	printf("\n Enter How many Elements You want : ");
+	scanf("%d",&size);
+	printf("\n Enter %d Elements:", size);
+	for(i=0;i<=size;i++)
+	{
+		scanf("%d",&arr[i]);
+	}
+		printf("\n Elements of this One-Dimensional Arry is\n");
+		for(i=0;i<size;i++)
+		{
+			printf("\n%d\n",arr[i]);
+		}
+	}
+
